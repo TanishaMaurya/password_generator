@@ -1,1 +1,1 @@
- https://tanishamaurya.github.io/password_generator/
+https://generate-password-gp.netlify.app
